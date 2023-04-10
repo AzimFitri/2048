@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #333;
+    background-color: #424874;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,7 +17,7 @@ body {
     display: grid;
     grid-template-columns: repeat(var(--grid-size), var(--cell-size));
     grid-template-rows: repeat(var(--grid-size), var(--cell-size));
-    background-color: #ccc;
+    background-color: #A6B1E1;
     gap: var(--cell-gap);
     border-radius: 1vmin;
     padding: var(--cell-gap);
@@ -25,7 +25,7 @@ body {
 }
 
 .cell {
-    background-color: #aaa;
+    background-color: #DCD6F7;
     border-radius: 1vmin;
 }
 
